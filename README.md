@@ -1,4 +1,4 @@
-# donut_counter
+# ite126_project1
 
 A new Flutter project.
 
